@@ -1,0 +1,4 @@
+Notas curso mvc
+
+- Na estrutura de pastas do Asp mvc o App_data serve para guardar informacoes do do banco
+- Dentro do App_Start temos BundleConfig, serve pra organizar e gerar apenas um arquivo que chama os scripts, 
